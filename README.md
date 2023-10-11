@@ -3,7 +3,7 @@ Nina Rubanovich, Jade Neeley, Gavin Boley
 
 Implementation:
 
-Minimax algorithm to play a two-player, four-in-a-row game, a variation of tic-tac-toe: two players, X and O, take turns marking the spaces in a 5×6 grid. The player who succeeds in placing 4 of their marks consecutively in a horizontal, vertical, or diagonal row wins the game. A player may place a piece at any empty space next to an existing piece horizontally, vertically, or diagonally on the board. Ties are broken in increasing order of column number first (smaller column number has higher priority) and then increasing order of row number (smaller row number has higher priority). The two AI players follow the same heuristic function, and start at different positions.
+Minimax algorithm controls two AI players playing a four-in-a-row game, a variation of tic-tac-toe: two players, X and O, take turns marking the spaces in a 5×6 grid. The player who succeeds in placing 4 of their marks consecutively in a horizontal, vertical, or diagonal row wins the game. A player may place a piece at any empty space next to an existing piece horizontally, vertically, or diagonally on the board. Ties are broken in increasing order of column number first (smaller column number has higher priority) and then increasing order of row number (smaller row number has higher priority). The two AI players follow the same heuristic function, and start at different positions.
 
 Heuristic used:
 
