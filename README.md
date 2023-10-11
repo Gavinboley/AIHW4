@@ -1,4 +1,4 @@
-#Minimax Algorithm for Four-in-a-Row Game
+# Minimax Algorithm for Four-in-a-Row Game
 Nina Rubanovich, Jade Neeley, Gavin Boley 
 
 Implementation:
